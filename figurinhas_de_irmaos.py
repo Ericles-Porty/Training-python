@@ -23,4 +23,3 @@ impar = list(temp)
 maior = sum(par) if sum(par) > sum(impar) else sum(impar)
 
 print(maior)
-
